@@ -71,7 +71,7 @@ Sou estudante de programação com foco em lógica, algoritmos e **desenvolvimen
   <a href="mailto:davibezerrafraga@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="https://wa.me/" target="_blank">
+  <a href="https://wa.me/+558591937183" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
   <a href=".." target="_blank">
