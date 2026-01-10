@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B91C1C&width=500&lines=Engenheiro+de+Software+%26+Full+Stack;Python+%7C+React.js;UX%2FUI+Design+%26+Arquitetura;Automa%C3%A7%C3%A3o+Industrial+%26+IA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B91C1C&width=500&lines=Engenheiro+de+Software+%26+Full+Stack;Python+%7C+Portugol;UX%2FUI+Design+%26+Arquitetura;Automa%C3%A7%C3%A3o+Industrial+%26+IA" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,13 +14,11 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Sou um profissional híbrido que conecta a lógica da **Engenharia**.
+Sou estudante de programação com foco em lógica, algoritmos e **desenvolvimento backend**, sempre buscando evoluir por meio da prática e do estudo contínuo..
 
 - ☕ **Backend:** Especialista em **Java (Spring Boot)**, APIs RESTful e Arquitetura de Microsserviços.
-- ⚛️ **Frontend:** Criação de interfaces Pixel-Perfect com **React, Next.js e TypeScript**.
-- 🎨 **Design:** UX/UI com foco em Design Systems (Figma).
-- ⚙️ **Engenharia:** Automação de processos com **Python, N8N, CLP e Ignition**.
-- 🌐 **Portfólio:** [filipimoraes.com](https://filipimoraes.com)
+- 🐍 **Python:** fundamentos, lógica, scripts e exercícios.
+- 🌐 **Portfólio:** [.com](https:.com)
 
 ---
 
