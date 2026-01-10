@@ -14,11 +14,11 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Sou estudante de programação com foco em lógica, algoritmos e **desenvolvimento backend**, sempre buscando evoluir por meio da prática e do estudo contínuo..
+Sou estudante de programação com foco em lógica, algoritmos e desenvolvimento backend, buscando evoluir constantemente por meio da prática, projetos e estudo contínuo.
 
-- ☕ **Backend:** Especialista em **Java (Spring Boot)**, APIs RESTful e Arquitetura de Microsserviços.
-- 🐍 **Python:** fundamentos, lógica, scripts e exercícios.
-- 🌐 **Portfólio:** [.com](https:.com)
+- ☕ **Backend:** Backend Developer em formação.
+- 🐍 **Python:** lógica, scripts, automação e resolução de problemas
+- 🌐 **Portfólio:** em construção [.com](https:.com)
 
 ---
 
