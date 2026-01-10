@@ -74,7 +74,7 @@ Sou estudante de programação com foco em lógica, algoritmos e desenvolvimento
   <a href="https://wa.me/+558591937183" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
-  <a href=".." target="_blank">
+  <a href="https://vercel.com/davis-projects-5a7c0f00" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
   </a>
 </div>
