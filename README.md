@@ -18,7 +18,8 @@ Sou estudante de programação com foco em lógica, algoritmos e desenvolvimento
 
 - ☕ **Backend:** Backend Developer em formação.
 - 🐍 **Python:** lógica, scripts, automação e resolução de problemas
-- 🌐 **Portfólio:** em construção [.com](https:.com)
+- 🌐 **Frontend:** HTML, CSS e JavaScript para construção de interfaces web
+- 💼 **Portfólio:** em construção [.](https:.com)
 
 ---
 
