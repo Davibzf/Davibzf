@@ -1,4 +1,4 @@
-# Olá, eu sou Davi Bezerra 👋
+# Olá, eu sou Davi Bezerra 👾
 
 <div align="center">
   <a href="https://git.io/typing-svg">
