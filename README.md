@@ -62,7 +62,7 @@ Sou estudante de programação com foco em lógica, algoritmos e **desenvolvimen
 ## 📫 Vamos Conversar?
 
 <div align="center">
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/davi-bezerra-fraga-319a49363" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/" target="_blank">
