@@ -7,14 +7,14 @@
 </div>
 
 <div align="center">
-  <i>Transformando problemas complexos em software escalável: do Design à Engenharia de Backend.</i>
+  <i>Transformando problemas em soluções de software com foco em backend.</i>
 </div>
 
 ---
 
 ## 🧑‍💻 Sobre Mim
 
-Sou um profissional híbrido que conecta a lógica da **Engenharia** com a usabilidade do **Design**. Com background em Automação Industrial e Análise de Sistemas, hoje foco na construção de arquiteturas robustas e interfaces intuitivas.
+Sou um profissional híbrido que conecta a lógica da **Engenharia**.
 
 - ☕ **Backend:** Especialista em **Java (Spring Boot)**, APIs RESTful e Arquitetura de Microsserviços.
 - ⚛️ **Frontend:** Criação de interfaces Pixel-Perfect com **React, Next.js e TypeScript**.
