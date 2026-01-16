@@ -35,7 +35,7 @@ Sou estudante de programação com foco em lógica, algoritmos e desenvolvimento
 ### • Backend & Architecture
 
 ### • Frontend & Design
-![MySQL](https://img.shields.io/badge/:badgeContent)
+![MySQL]((https://img.shields.io/badge/pandas-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white))
 
 ### • Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
