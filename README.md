@@ -35,13 +35,11 @@ Atualmente busco oportunidade de estágio em Desenvolvimento de Software / TI, o
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-### • Backend & Architecture
-
-### • Frontend & Design
+### • Backend & Data
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### • Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### • DevOps, Automation & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
