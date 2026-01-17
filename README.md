@@ -20,10 +20,10 @@ Tenho formação técnica em Eletromecânica, o que me proporcionou uma base só
 
 Atualmente busco oportunidade de estágio em Desenvolvimento de Software / TI, onde possa aprender, contribuir com soluções eficientes e evoluir tecnicamente.
 
-- ☕ **Backend:** Backend Developer em formação, com foco em fundamentos de backend.
-- 🐍 **Python:** lógica, scripts, automação e resolução de problemas.
-- 🌐 **Frontend:** HTML, CSS e JavaScript para construção de interfaces web.
-- ☁️ **Deploy & Version:** GitHub e Vercel
+- ☕ **Backend:** Backend Developer em formação.
+- 🐍 **Python:** aplicado à automação e análise de dados.
+- ⚙️ Scripts, lógica e resolução de problemas.
+- ☁️ **Deploy & Version:** GitHub e Vercel.
 - 💼 **Portfólio:** em construção [.](https:.com)
 
 ---
