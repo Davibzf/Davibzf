@@ -33,7 +33,6 @@ Atualmente busco oportunidade de estágio em Desenvolvimento de Software / TI, o
 ### • Languages
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 
 ### • Backend & Architecture
