@@ -14,7 +14,11 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Sou estudante de programação com foco em lógica, algoritmos e desenvolvimento backend, buscando evoluir constantemente por meio da prática, projetos e estudo contínuo.
+👋 Olá! Sou estudante de Engenharia de Software, com foco em desenvolvimento em Python, automação de processos e análise de dados. Atuo no desenvolvimento de scripts e projetos práticos, aplicando lógica de programação para resolver problemas reais.
+
+Tenho formação técnica em Eletromecânica, o que me proporcionou uma base sólida em lógica, pensamento analítico, resolução de problemas e raciocínio técnico, habilidades que aplico diretamente na programação.
+
+Atualmente busco oportunidade de estágio em Desenvolvimento de Software / TI, onde possa aprender, contribuir com soluções eficientes e evoluir tecnicamente.
 
 - ☕ **Backend:** Backend Developer em formação, com foco em fundamentos de backend.
 - 🐍 **Python:** lógica, scripts, automação e resolução de problemas.
