@@ -43,7 +43,7 @@ Atualmente busco oportunidade de estágio em Desenvolvimento de Software / TI, o
 
 ### • DevOps, Automation & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/--white?style=flat-square&logo=github&logoColor=%23181717&logoSize=auto&label=GitHub&labelColor=white&color=white)
+![Github](https://img.shields.io/badge/--white?style=flat-square&logo=github&logoColor=white&logoSize=white&label=GitHub&labelColor=black)
 
 
 ---
