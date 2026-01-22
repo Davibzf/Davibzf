@@ -35,6 +35,9 @@ Atualmente busco oportunidade de estágio em Desenvolvimento de Software / TI, o
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+###  🤖 Machine Learning
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn%20-%20black?style=flat&logo=scikitlearn&color=white)
+
 ### ⚙️ Backend & Data
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
