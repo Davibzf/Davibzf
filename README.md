@@ -36,7 +36,7 @@ Atualmente busco oportunidade de estágio em Desenvolvimento de Software / TI, o
 </div>
 
 ###  🤖 Machine Learning
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn%20-%20black?style=flat&logo=scikitlearn&color=white)
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn%20-%20black?style=flat&logo=scikitlearn&color=blue)
 
 ### ⚙️ Backend & Data
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
