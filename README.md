@@ -14,14 +14,14 @@
 
 ## 🧑‍💻 Sobre Mim
 
-👋 Hello!
-I am a Software Engineering student (1st semester) with a strong focus on Python development, process automation, and data analysis. I am interested in using technology in a practical way to solve real-world problems, improve efficiency, and extract meaningful insights from data.
+👋 Olá! 
+- Sou estudante de **Engenharia de Software (1º semestre)**, com forte foco em **desenvolvimento em Python**, **automação de processos e análise de dados**. Tenho grande interesse em usar a tecnologia de forma prática para resolver problemas reais, aumentar a eficiência e extrair insights relevantes a partir de dados.
 
-I work on developing Python scripts and practical projects, applying programming logic, data manipulation and analysis with Pandas, as well as foundational machine learning concepts using scikit-learn. I also have experience with version control using Git and GitHub, keeping my projects well-organized and documented.
+Atuo no desenvolvimento de scripts em Python e projetos práticos, aplicando lógica de programação, manipulação e análise de dados com **Pandas**, além de conceitos iniciais de **machine learning** utilizando **scikit-learn**. Também possuo experiência com controle de versão usando Git e GitHub, mantendo meus projetos bem organizados e devidamente documentados.
 
-I am continuously learning and expanding my skills in both backend development and Full Stack concepts, always focusing on clean code, best practices, and maintainable solutions. I value continuous learning, teamwork, and challenges that allow me to grow technically.
+Estou em constante aprendizado e evolução, ampliando meus conhecimentos tanto em backend quanto em conceitos de Full Stack, sempre com foco em código limpo, boas práticas e soluções manuteníveis. Valorizo o aprendizado contínuo, o trabalho em equipe e desafios que me permitam crescer tecnicamente.
 
-Currently, I am seeking a Software Development or IT internship, where I can learn from experienced professionals, contribute with efficient solutions, and further develop my skills through hands-on experience.
+Atualmente, **busco uma oportunidade de estágio em Desenvolvimento de Software ou TI**, onde eu possa aprender com profissionais experientes, contribuir com soluções eficientes e desenvolver ainda mais minhas habilidades por meio da prática.
 
 - ☕ **Backend:** Backend Developer em formação.
 - 🐍 **Python:** aplicado à automação e análise de dados.
