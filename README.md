@@ -13,8 +13,8 @@
 ---
 
 ## 🧑‍💻 Sobre Mim
-
 👋 Olá! 
+
 Sou estudante de **Engenharia de Software (1º semestre)**, com forte foco em **desenvolvimento em Python**, **automação de processos e análise de dados**. Tenho grande interesse em usar a tecnologia de forma prática para resolver problemas reais, aumentar a eficiência e extrair insights relevantes a partir de dados.
 
 Atuo no desenvolvimento de scripts em Python e projetos práticos, aplicando lógica de programação, manipulação e análise de dados com **Pandas**, além de conceitos iniciais de **machine learning** utilizando **scikit-learn**. Também possuo experiência com controle de versão usando Git e GitHub, mantendo meus projetos bem organizados e devidamente documentados.
