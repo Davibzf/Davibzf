@@ -14,11 +14,14 @@
 
 ## 🧑‍💻 Sobre Mim
 
-👋 Olá! Sou estudante de Engenharia de Software, com foco em desenvolvimento em Python, automação de processos e análise de dados. Atuo no desenvolvimento de scripts e projetos práticos, aplicando lógica de programação para resolver problemas reais.
+👋 Hello!
+I am a Software Engineering student (1st semester) with a strong focus on Python development, process automation, and data analysis. I am interested in using technology in a practical way to solve real-world problems, improve efficiency, and extract meaningful insights from data.
 
-Tenho formação técnica em Eletromecânica, o que me proporcionou uma base sólida em lógica, pensamento analítico, resolução de problemas e raciocínio técnico, habilidades que aplico diretamente na programação.
+I work on developing Python scripts and practical projects, applying programming logic, data manipulation and analysis with Pandas, as well as foundational machine learning concepts using scikit-learn. I also have experience with version control using Git and GitHub, keeping my projects well-organized and documented.
 
-Atualmente busco oportunidade de estágio em Desenvolvimento de Software / TI, onde possa aprender, contribuir com soluções eficientes e evoluir tecnicamente.
+I am continuously learning and expanding my skills in both backend development and Full Stack concepts, always focusing on clean code, best practices, and maintainable solutions. I value continuous learning, teamwork, and challenges that allow me to grow technically.
+
+Currently, I am seeking a Software Development or IT internship, where I can learn from experienced professionals, contribute with efficient solutions, and further develop my skills through hands-on experience.
 
 - ☕ **Backend:** Backend Developer em formação.
 - 🐍 **Python:** aplicado à automação e análise de dados.
