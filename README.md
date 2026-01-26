@@ -26,7 +26,7 @@ Atualmente, **busco uma oportunidade de estágio em Desenvolvimento de Software 
 - ☕ **Backend:** Backend Developer em formação.
 - 🐍 **Python:** aplicado à automação e análise de dados.
 - ☁️ **Deploy & Version:** GitHub e Vercel.
-- 💼 **Portfólio:** [https://davibezerrafraga.vercel.app/](https://davibezerrafraga.vercel.app/)
+- 💼 **Portfólio:** [davibezerrafraga](https://davibezerrafraga.vercel.app/)
 
 ---
 
