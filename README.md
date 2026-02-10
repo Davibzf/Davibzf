@@ -1,4 +1,5 @@
-# Olá, eu sou Davi Bezerra 👾
+<h1> Olá <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> Como vai?  </h1>
+<p> Meu nome é Davi e sou do <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Brasil</b>.</p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -72,12 +73,3 @@ Atualmente, **busco uma oportunidade de estágio em Desenvolvimento de Software 
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
   </a>
 </div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davibzf/davibzf/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davibzf/davibzf/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/davibzf/davibzf/output/pacman-contribution-graph.svg">
-</picture>
-
-###
