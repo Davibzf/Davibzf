@@ -14,7 +14,6 @@
 ---
 
 ## 🧑‍💻 Sobre Mim
-👋 Olá! 
 
 Sou estudante de **Engenharia de Software (1º semestre) na estacio**, com forte foco em **desenvolvimento em Python**, **automação de processos** , **análise de dados e machine learning**. Tenho grande interesse em usar a tecnologia de forma prática para resolver problemas reais, aumentar a eficiência e extrair insights relevantes a partir de dados.
 
@@ -27,7 +26,7 @@ Atualmente, **busco uma oportunidade de estágio em Desenvolvimento de Software 
 - ☕ **Backend:** Backend Developer em formação.
 - 🐍 **Python:** aplicado à automação e análise de dados.
 - ☁️ **Deploy & Version:** GitHub e Vercel.
-- 💼 **Portfólio:** [davibezerrafraga](https://davibezerrafraga.vercel.app/)
+- 💼 **Portfólio:** [davibezerrafraga.dev](https://davibezerrafraga.vercel.app/)
 
 ---
 
