@@ -56,6 +56,7 @@ Atualmente, **busco uma oportunidade de estágio em Desenvolvimento de Software 
 ### 🔧 DevOps, Automation & Tools
 <div style="display: inline_block">
  <img align="center" alt="Git" height="50" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">  
+  <img align="center" alt="" height="10" width="5" src="">
  <img align="center" alt="GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">
 </div>
 
