@@ -35,21 +35,30 @@ Atualmente, **busco uma oportunidade de estágio em Desenvolvimento de Software 
 
 ### 🐍 Languages
 <div style="display: inline_block">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ###  🤖 Machine Learning
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn%20-%20black?style=flat&logo=scikitlearn&color=blue)
+<div style="display: inline_block">
+ <img align="center" alt="Scikit-learn" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg">
+</div>
 
 ### ⚙️ Backend & Data
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+<div style="display: inline_block">
+ <img align="center" alt="Pandas" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
+</div>
 
 ### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)
+<div style="display: inline_block">
+ <img align="center" alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+</div>
+
 
 ### 🔧 DevOps, Automation & Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/--white?style=flat-square&logo=github&logoColor=white&logoSize=white&label=GitHub&labelColor=black)
+<div style="display: inline_block">
+ <img align="center" alt="Git" height="50" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">  
+ <img align="center" alt="GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">
+</div>
 
 
 ---
