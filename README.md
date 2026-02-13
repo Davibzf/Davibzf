@@ -2,18 +2,22 @@
 <p> Meu nome é Davi e sou do <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Brasil</b>.</p>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B91C1C&width=500&lines=Software+Engineer;Python+%7C+Pandas+%7C+MySQL+%7C+Scikit-learn;Back-end+%26+Developer;Automa%C3%A7%C3%A3o+%7C+Dados+%7C+Machine+Learning" alt="Typing SVG" />
+  <a
+    href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&letterSpacing=1&duration=3500&pause=1000&color=B91C1C&center=true&vCenter=true&width=600&height=60&lines=Python+Developer;Back-end+%7C+APIs+%7C+Automation;Data+%7C+Analysis+%7C+Machine+Learning;Pandas+%7C+Scikit-learn+%7C+MySQL+%7C+FastAPI" alt="Typing SVG" />
   </a>
 </div>
 
+
 <div align="center">
-  <i>Transformando problemas em soluções de software, com foco em lógica e backend.</i>
+  <i>Transformando problemas complexos em soluções de software eficientes, com foco em lógica e backend.</i>
 </div>
 
 ---
 
 ## 🧑‍💻 Sobre Mim
+  
+
 
 Sou estudante de **Engenharia de Software (1º semestre) na estacio**, com forte foco em **desenvolvimento em Python**, **automação de processos** , **análise de dados e machine learning**. Tenho grande interesse em usar a tecnologia de forma prática para resolver problemas reais, aumentar a eficiência e extrair insights relevantes a partir de dados.
 
