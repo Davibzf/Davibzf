@@ -70,7 +70,7 @@ Atualmente, **busco uma oportunidade de estágio em Desenvolvimento de Software 
 ## ☎️ Contatos?
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/davi-bezerra-fraga-319a49363" target="_blank">
+  <a href="www.linkedin.com/in/davizf" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/Davibzf" target="_blank">
