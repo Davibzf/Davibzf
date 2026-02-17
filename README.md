@@ -44,7 +44,7 @@ Estou em busca de uma **oportunidade de Junior em Desenvolvimento de Software**,
 
 ### Machine Learning & Data
 
-<div style="display: inline_block">
+<div style="center">
   <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-learn" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="40" />
 </div>
