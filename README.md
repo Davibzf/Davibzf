@@ -46,6 +46,7 @@ Estou em busca de uma **oportunidade de Junior em Desenvolvimento de Software**,
 
 <div align="center">
   <img src="icon/pytorch-dark.svg" alt="Logo" width="50">
+  <img src="icon/Pandas.svg" alt="Logo" width="50">
   <img src="icon/scikitlearn-dark.svg" alt="Logo" width="50">
 </div>
 
