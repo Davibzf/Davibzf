@@ -40,7 +40,7 @@ Estou em busca de uma **oportunidade de Junior em Desenvolvimento de Software**,
   <img src="icon/python-dark.svg" alt="Logo" width="50">
 </div>
 
-### Machine Learning & Data
+### Frameworks & Bibliotecas
 
 <div align="center">
   <img src="icon/pytorch-dark.svg" alt="Logo" width="50">
@@ -48,6 +48,8 @@ Estou em busca de uma **oportunidade de Junior em Desenvolvimento de Software**,
   <img src="icon/Pandas.svg" alt="Logo" width="50">
   <img width="1">
   <img src="icon/scikitlearn-dark.svg" alt="Logo" width="50">
+  <img width="1">
+  <img src="icon/fastapi.svg" alt="Logo" width="50">
 </div>
 
 
