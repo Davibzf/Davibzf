@@ -36,11 +36,9 @@ Estou em busca de uma **oportunidade de Junior em Desenvolvimento de Software**,
 
 ### Linguagens
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py" />
-  </a>
-</p>
+<div align="center">
+  <img src="icon/python-dark.svg" alt="Logo" width="50"
+</div>
 
 ### Machine Learning & Data
 
@@ -54,18 +52,22 @@ Estou em busca de uma **oportunidade de Junior em Desenvolvimento de Software**,
 
 
 ### Banco de Dados
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-</p>
+
+<div align="center">
+  <img src="icon/mysql-dark.svg" alt="Logo" width="50"
+</div>
 
 ### Versionamento & Deploy
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel" />
-  </a>
-</p>
+<div align="center">
+  <img src="icon/github.svg" alt="Logo" width="50">
+  <img width="1">
+  <img src="icon/git.svg" alt="Logo" width="50">
+  <img width="1">
+  <img src="icon/gitlab-dark.svg" alt="Logo" width="50">
+  <img width="1">
+  <img src="icon/vercel-dark.svg" alt="Logo" width="50">
+</div
+
 
 ## 🌐 Contatos e Links
 
