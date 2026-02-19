@@ -37,7 +37,7 @@ Estou em busca de uma **oportunidade de Junior em Desenvolvimento de Software**,
 ### Linguagens
 
 <div align="center">
-  <img src="icon/python-dark.svg" alt="Logo" width="50"
+  <img src="icon/python-dark.svg" alt="Logo" width="50">
 </div>
 
 ### Machine Learning & Data
@@ -54,7 +54,7 @@ Estou em busca de uma **oportunidade de Junior em Desenvolvimento de Software**,
 ### Banco de Dados
 
 <div align="center">
-  <img src="icon/mysql-dark.svg" alt="Logo" width="50"
+  <img src="icon/mysql-dark.svg" alt="Logo" width="50">
 </div>
 
 ### Versionamento & Deploy
@@ -67,6 +67,8 @@ Estou em busca de uma **oportunidade de Junior em Desenvolvimento de Software**,
   <img width="1">
   <img src="icon/vercel-dark.svg" alt="Logo" width="50">
 </div
+
+---
 
 
 ## 🌐 Contatos e Links
