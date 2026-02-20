@@ -76,19 +76,5 @@ Estou em busca de uma **oportunidade de Junior em Desenvolvimento de Software**,
 ## 🌐 Contatos e Links
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/davizf">
-  <img src="icon/linkedin.svg" alt="LinkedIn" width="50">
-  </a>
-  <img width="1">
-  <a href="https://github.com/Davibzf" target="_blank" rel="noopener noreferrer" title="GitHub">
-  <img src="icon/github.svg" alt="GitHub" width="50">
-  </a>
-  <img width="1">
-  <a href="mailto:davibezerrafraga@gmail.com" title="E-mail">
-    <img src="icon/gmail-dark.svg" alt="E-mail" width="50">
-  </a>
-  <img width="1">
-  <a href="https://davibezerrafraga.vercel.app/" target="_blank" rel="noopener noreferrer" title="Portfólio">
-    <img src="icon/favicon-32x32.svg" alt="Portfólio" width="50">
-  </a>
+  <a href="https://www.linkedin.com/in/davizf"><img src="icon/linkedin.svg" alt="LinkedIn" width="50" height="50"></a> <a href="https://github.com/Davibzf"><img src="icon/github.svg" alt="GitHub" width="50" height="50"></a> <a href="mailto:davibezerrafraga@gmail.com"><img src="icon/gmail-dark.svg" alt="E-mail" width="50" height="50"></a> <a href="https://davibezerrafraga.vercel.app/"><img src="icon/favicon-32x32.svg" alt="Portfólio" width="50" height="50"></a>
 </div>
