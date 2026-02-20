@@ -89,6 +89,6 @@ Estou em busca de uma **oportunidade de Junior em Desenvolvimento de Software**,
   </a>
   <img width="1">
   <a href="https://davibezerrafraga.vercel.app/" target="_blank" rel="noopener noreferrer" title="Portfólio">
-    <img src="icon/favicon-32x32.png" alt="Portfólio" width="50">
+    <img src="icon/favicon-32x32.svg" alt="Portfólio" width="50">
   </a>
 </div>
