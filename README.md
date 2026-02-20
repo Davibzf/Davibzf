@@ -75,20 +75,20 @@ Estou em busca de uma **oportunidade de Junior em Desenvolvimento de Software**,
 
 ## 🌐 Contatos e Links
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/davizf" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="icon/linkedin.svg" alt="LinkedIn" width="50">
   </a>
+  <img width="1">
   <a href="https://github.com/Davibzf" target="_blank" rel="noopener noreferrer" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="icon/github.svg" alt="GitHub" width="50">
   </a>
+  <img width="1">
   <a href="mailto:davibezerrafraga@gmail.com" title="E-mail">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="icon/gmail-dark.svg" alt="E-mail" width="50">
   </a>
-  <a href="https://wa.me/+558591937183" target="_blank" rel="noopener noreferrer" title="WhatsApp">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+  <img width="1">
   <a href="https://davibezerrafraga.vercel.app/" target="_blank" rel="noopener noreferrer" title="Portfólio">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+    <img src="icon/favicon-32x32.png" alt="Portfólio" width="50">
   </a>
 </div>
