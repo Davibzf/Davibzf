@@ -76,8 +76,8 @@ Estou em busca de uma **oportunidade de Junior em Desenvolvimento de Software**,
 ## 🌐 Contatos e Links
 
 <div align="center">
-  <a >
-  <img href="https://www.linkedin.com/in/davizf" src="icon/linkedin.svg" alt="LinkedIn" width="50">
+  <a href="https://www.linkedin.com/in/davizf">
+  <img src="icon/linkedin.svg" alt="LinkedIn" width="50">
   </a>
   <img width="1">
   <a href="https://github.com/Davibzf" target="_blank" rel="noopener noreferrer" title="GitHub">
