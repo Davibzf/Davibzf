@@ -5,7 +5,7 @@
 </h1>
 
 **Desenvolvedor Backend Python** | **Análise de Dados** | **Machine Learning**  
-📍 Ceará, Brasil
+📍 Caucaia, Ceará, Brasil
 
 <div align="center">
   <a
