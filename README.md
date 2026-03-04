@@ -52,6 +52,8 @@ Estou em busca de uma **oportunidade de Junior em Desenvolvimento de Software**,
   <img src="icon/scikitlearn-dark.svg" alt="Logo" width="50">
   <img width="1">
   <img src="icon/fastapi.svg" alt="Logo" width="50">
+  <img width="1">
+  <img src="icon/Plotly.png" alt="Logo" width="50">
 </div>
 
 
