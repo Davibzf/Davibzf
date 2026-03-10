@@ -28,8 +28,6 @@ Atualmente, desenvolvo projetos práticos utilizando:
 
 Estou em busca de uma **oportunidade de Junior em Desenvolvimento de Software**, onde eu possa colaborar com times reais, aprender com profissionais experientes e contribuir com soluções bem estruturadas e de qualidade.
 
-> 💡 Acredito no poder da tecnologia para otimizar processos, gerar insights e facilitar decisões.
-
 ---
 
 ## 🛠️ Tech Stack
