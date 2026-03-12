@@ -4,7 +4,7 @@
    Eu sou Davi Bezerra Fraga
 </h1>
 
-**Desenvolvedor Backend Python** | **Análise de Dados** | **Machine Learning**  
+**Desenvolvedor Backend Python** | **Análise de Dados** | **Machine Learning** | **Automation**  
 📍 Caucaia, Ceará, Brasil
 
 <div align="center">
