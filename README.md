@@ -37,6 +37,8 @@ Estou em busca de uma **oportunidade de Junior em Desenvolvimento de Software**,
 <div align="center">
   <img src="icon/python-dark.svg" alt="Logo" width="50">
   <img width="1">
+  <img src="icon/javascript.png" alt="Logo" width="50">
+  <img width="1">
   <img src="icon/sql.png" alt="Logo" width="50">
 </div>
 
