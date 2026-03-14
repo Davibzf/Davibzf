@@ -61,6 +61,8 @@ Estou em busca de uma **oportunidade de Junior em Desenvolvimento de Software**,
 
 <div align="center">
   <img src="icon/mysql-dark.svg" alt="Logo" width="50">
+  <img width="1">
+  <img src="icon/sqlite.png" alt="Logo" width="50">
 </div>
 
 ### Versionamento & Deploy
