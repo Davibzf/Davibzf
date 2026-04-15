@@ -82,5 +82,5 @@ Estou em busca de uma **oportunidade de Junior em Desenvolvimento de Software**,
 ## 🌐 Contatos e portifolio
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/davizf"><img src="icon/linkedin.svg" alt="LinkedIn" width="50" height="50"></a> <a href="https://github.com/Davibzf"><img src="icon/github.svg" alt="GitHub" width="50" height="50"></a> <a href="mailto:davibezerrafraga@gmail.com"><img src="icon/gmail-dark.svg" alt="E-mail" width="50" height="50"></a> <a href="https://davibezerrafraga.vercel.app/"><img src="icon/Site.png" alt="Portfólio" width="50" height="50"></a>
+  <a href="https://www.linkedin.com/in/davizf"><img src="icon/linkedin.svg" alt="LinkedIn" width="50" height="50"></a> <a href="https://github.com/Davibzf"><img src="icon/github.svg" alt="GitHub" width="50" height="50"></a> <a href="mailto:davibezerrafraga@gmail.com"><img src="icon/gmail-dark.svg" alt="E-mail" width="50" height="50"></a> <a href="https://davibezerrafraga.vercel.app/"><img src="icon/Logo.png" alt="Portfólio" width="50" height="50"></a>
 </div>
