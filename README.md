@@ -16,7 +16,7 @@
 
 ---
 <div align="center">
-  <img src="URL_DO_SEU_GIF.gif" width="500px" />
+  <img src="icon/Design-sem-nome.gif" width="350px" />
 </div>
 
 ---
