@@ -15,6 +15,11 @@
 </div>
 
 ---
+<div align="center">
+  <img src="URL_DO_SEU_GIF.gif" width="500px" />
+</div>
+
+---
 
 ## 👨‍💻 Sobre Mim
 
