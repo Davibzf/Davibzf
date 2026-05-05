@@ -15,11 +15,6 @@
 </div>
 
 ---
-<div align="center">
-  <img src="icon/Design-sem-nome.gif" width="350px" />
-</div>
-
----
 
 ## 👨‍💻 Sobre Mim
 
