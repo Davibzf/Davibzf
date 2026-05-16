@@ -9,8 +9,8 @@
 
 <div align="center">
   <a
-    href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&letterSpacing=1&duration=3500&pause=1000&color=B91C1C&center=true&vCenter=true&width=600&height=60&lines=Python+Developer;Back-end+%7C+APIs+%7C+Automation;Data+%7C+Analysis+%7C+Machine+Learning;Pandas+%7C+Scikit-learn+%7C+MySQL+%7C+FastAPI" alt="Typing SVG" />
+    href="https://github.com/Davibzf/Readme-Builder">
+  <img src="icon/typing (1).svg" alt="Typing SVG" />
   </a>
 </div>
 
