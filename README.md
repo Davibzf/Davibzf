@@ -84,3 +84,10 @@ Estou em busca de uma **oportunidade de Junior em Desenvolvimento de Software**,
 <div align="center">
   <a href="https://www.linkedin.com/in/davibzf"><img src="icon/linkedin.svg" alt="LinkedIn" width="50" height="50"></a> <a href="https://github.com/Davibzf"><img src="icon/github.svg" alt="GitHub" width="50" height="50"></a> <a href="mailto:davibezerrafraga@gmail.com"><img src="icon/gmail-dark.svg" alt="E-mail" width="50" height="50"></a> <a href="https://davibezerrafraga.vercel.app/"><img src="icon/Logo.png" alt="Portfólio" width="50" height="50"></a>
 </div>
+
+---
+
+**"Porque Deus tanto amou o mundo que deu o seu Filho Unigênito, para que todo o que nele crer não pereça, mas tenha a vida eterna."**
+<div align="right">
+  João 3:16
+</div>
