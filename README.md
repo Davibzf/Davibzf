@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de **Engenharia de Software (1º semestre)** e apaixonado por transformar problemas complexos em soluções eficientes através da programação. Meu foco principal é o **desenvolvimento backend com Python**, onde aplico conceitos de lógica, automação de processos, análise de dados e machine learning para criar ferramentas que geram impacto real.
+Sou estudante de **Engenharia de Software (2º semestre)** e apaixonado por transformar problemas complexos em soluções eficientes através da programação. Meu foco principal é o **desenvolvimento backend com Python**, onde aplico conceitos de lógica, automação de processos, análise de dados e machine learning para criar ferramentas que geram impacto real.
 
 Atualmente, desenvolvo projetos práticos utilizando:
 - **Pandas** para manipulação e análise de dados
