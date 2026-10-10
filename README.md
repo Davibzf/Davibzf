@@ -32,12 +32,12 @@ Estou cursando Engenharia de Software na Estácio e gosto de transformar process
 
 <div align="center">
 
-<img src="https://readmevanta.vercel.app/assets/icons/python-dark.svg" width="40" height="40" alt="Python" title="Python" />
-<img src="https://readmevanta.vercel.app/assets/icons/fastapi.svg" width="40" height="40" alt="FastAPI" title="FastAPI" />
-<img src="https://readmevanta.vercel.app/assets/icons/mysql.svg" width="40" height="40" alt="MySQL" title="MySQL" />
-<img src="https://readmevanta.vercel.app/assets/icons/pandas-dark.svg" width="40" height="40" alt="Pandas" title="Pandas" />
-<img src="https://readmevanta.vercel.app/assets/icons/scikitlearn-dark.svg" width="40" height="40" alt="Scikit-learn" title="Scikit-learn" />
-<img src="https://readmevanta.vercel.app/assets/icons/javascript.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
+<img src="https://readmevanta.vercel.app/api/icon.svg?name=python&amp;color=CC785C" width="40" height="40" alt="Python" title="Python" />
+<img src="https://readmevanta.vercel.app/api/icon.svg?name=fastapi&amp;color=CC785C" width="40" height="40" alt="FastAPI" title="FastAPI" />
+<img src="https://readmevanta.vercel.app/api/icon.svg?name=mysql&amp;color=CC785C" width="40" height="40" alt="MySQL" title="MySQL" />
+<img src="https://readmevanta.vercel.app/api/icon.svg?name=pandas&amp;color=CC785C" width="40" height="40" alt="Pandas" title="Pandas" />
+<img src="https://readmevanta.vercel.app/api/icon.svg?name=scikitlearn&amp;color=CC785C" width="40" height="40" alt="Scikit-learn" title="Scikit-learn" />
+<img src="https://readmevanta.vercel.app/api/icon.svg?name=javascript&amp;color=CC785C" width="40" height="40" alt="JavaScript" title="JavaScript" />
 
 </div>
 
