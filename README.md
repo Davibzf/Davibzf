@@ -34,7 +34,7 @@ Estou cursando Engenharia de Software na Estácio e gosto de transformar process
 
 <img src="https://readmevanta.vercel.app/assets/icons/python-dark.svg" width="40" height="40" alt="Python" title="Python" />
 <img src="https://readmevanta.vercel.app/assets/icons/fastapi.svg" width="40" height="40" alt="FastAPI" title="FastAPI" />
-<img src="https://readmevanta.vercel.app/assets/icons/mysql.svg" width="40" height="40" alt="MySQL" title="MySQL" />
+<img src="https://readmevanta.vercel.app/assets/icons/mysql-dark.svg" width="40" height="40" alt="MySQL" title="MySQL" />
 <img src="https://readmevanta.vercel.app/assets/icons/pandas-dark.svg" width="40" height="40" alt="Pandas" title="Pandas" />
 <img src="https://readmevanta.vercel.app/assets/icons/scikitlearn-dark.svg" width="40" height="40" alt="Scikit-learn" title="Scikit-learn" />
 <img src="https://readmevanta.vercel.app/assets/icons/javascript.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
