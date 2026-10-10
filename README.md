@@ -2,7 +2,7 @@
 
 # Davi Bezerra Fraga
 
-### Engenheiro de Software Jr. @ Inovaix
+### Engenheiro de Software Jr.
 
 *Backend Python • APIs REST • Automação de processos • Dados e IA*
 
@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/davibzf"><img src="https://readmevanta.vercel.app/api/badge.svg?label=LinkedIn&amp;labelColor=0A66C2&amp;messageColor=0A66C2&amp;style=for-the-badge&amp;logo=linkedin" alt="LinkedIn" /></a>
 <a href="https://davibezerrafraga.vercel.app/"><img src="https://readmevanta.vercel.app/api/badge.svg?label=Portf%C3%B3lio&amp;labelColor=FF5722&amp;messageColor=FF5722&amp;style=for-the-badge&amp;logo=website" alt="Portfólio" /></a>
-<a href="https://www.bezratech.com.br/"><img src="https://readmevanta.vercel.app/api/badge.svg?label=Bezratech&amp;labelColor=111827&amp;messageColor=111827&amp;style=for-the-badge&amp;logo=vercel" alt="Bezratech" /></a>
+<a href="https://www.bezratech.com.br/"><img src="https://readmevanta.vercel.app/api/badge.svg?label=Bezratech&amp;labelColor=CC785C&amp;messageColor=CC785C&amp;style=for-the-badge&amp;logo=vercel" alt="Bezratech" /></a>
 
 </div>
 
