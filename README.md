@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/davibzf"><img src="https://readmevanta.vercel.app/api/badge.svg?label=LinkedIn&amp;labelColor=0A66C2&amp;messageColor=0A66C2&amp;style=for-the-badge&amp;logo=linkedin" alt="LinkedIn" /></a>
 <a href="https://davibezerrafraga.vercel.app/"><img src="https://readmevanta.vercel.app/api/badge.svg?label=Portf%C3%B3lio&amp;labelColor=FF5722&amp;messageColor=FF5722&amp;style=for-the-badge&amp;logo=website" alt="Portfólio" /></a>
-<a href="https://luminac.vercel.app/"><img src="https://readmevanta.vercel.app/api/badge.svg?label=Luminac&amp;labelColor=111827&amp;messageColor=111827&amp;style=for-the-badge&amp;logo=vercel" alt="Luminac" /></a>
+<a href="https://www.bezratech.com.br/"><img src="https://readmevanta.vercel.app/api/badge.svg?label=Bezratech&amp;labelColor=111827&amp;messageColor=111827&amp;style=for-the-badge&amp;logo=vercel" alt="Bezratech" /></a>
 
 </div>
 
@@ -56,10 +56,10 @@ Estou cursando Engenharia de Software na Estácio e gosto de transformar process
 
 ## 🚀 Além do código
 
-Estou construindo a **Luminac**, uma software house em Caucaia focada em sites, sistemas sob medida e automações para negócios.
+Faço parte da **Bezratech**, empresa de tecnologia focada em software, inteligência artificial e cibersegurança. Desenvolvemos sites, sistemas web, automações e integrações sob medida.
 
 <div align="center">
 
-<a href="https://luminac.vercel.app/">Conheça a Luminac</a>
+<a href="https://www.bezratech.com.br/">Conheça a Bezratech</a>
 
 </div>
