@@ -13,7 +13,7 @@
 *Engenheiro de Software | Desenvolvedor Backend*
 
 <a href="https://github.com/Davibzf/ReadmeVanta">
-  <img src="https://readmevanta.vercel.app/api/typing.svg?text=Backend+Developer&amp;text=Automa%C3%A7%C3%A3o&amp;text=Desing&amp;text=Anima%C3%A7%C3%A3o&amp;color=3fb950&amp;speed=40&amp;pause=900&amp;fontSize=33&amp;width=560&amp;height=60&amp;align=center&amp;repeat=true&amp;font=jetbrains" alt="Backend Developer  · Automação  · Desing · Animação " />
+  <img src="https://readmevanta.vercel.app/api/typing.svg?text=Backend+Developer&amp;text=Automa%C3%A7%C3%A3o&amp;text=Design&amp;text=Anima%C3%A7%C3%A3o&amp;color=3fb950&amp;speed=40&amp;pause=900&amp;fontSize=33&amp;width=560&amp;height=60&amp;align=center&amp;repeat=true&amp;font=jetbrains" alt="Backend Developer  · Automação  · Design · Animação " />
 </a>
 
 <a href="https://www.linkedin.com/in/davibzf"><img src="https://readmevanta.vercel.app/api/badge.svg?label=LinkedIn&amp;labelColor=0A66C2&amp;messageColor=0A66C2&amp;style=for-the-badge&amp;logo=linkedin" alt="LinkedIn" /></a>
@@ -58,12 +58,24 @@ Sou estudante de Engenharia de Software e desenvolvedor com foco em Python. Gost
 
 <img width="49%" src="https://readmevanta.vercel.app/api/github-stats.svg?username=davibzf&amp;theme=merko" alt="davibzf GitHub stats" />
 <img width="49%" src="https://readmevanta.vercel.app/api/github-streak.svg?user=davibzf&amp;theme=merko" alt="davibzf contribution streak" />
+<br />
+<img width="49%" src="https://readmevanta.vercel.app/api/top-langs.svg?username=davibzf&amp;theme=merko" alt="Top languages" />
+
+</div>
+
+## 📌 Projetos em destaque
+
+<div align="center">
+
+<a href="https://github.com/Davibzf/ReadmeVanta"><img width="49%" src="https://readmevanta.vercel.app/api/repo.svg?username=Davibzf&amp;theme=merko&amp;repo=ReadmeVanta&amp;description=Editor+visual+de+README+para+perfil+do+GitHub%2C+com+publica%C3%A7%C3%A3o+em+1+clique&amp;language=TypeScript" alt="ReadmeVanta" /></a>
+<a href="https://github.com/Davibzf/Sonarize"><img width="49%" src="https://readmevanta.vercel.app/api/repo.svg?username=Davibzf&amp;theme=merko&amp;repo=Sonarize&amp;description=Baixa+%C3%A1udios%2C+transcreve+automaticamente+e+gera+resumos+com+IA&amp;language=Python" alt="Sonarize" /></a>
+<a href="https://github.com/Davibzf/Machine-Learning-Credit-Scoring"><img width="49%" src="https://readmevanta.vercel.app/api/repo.svg?username=Davibzf&amp;theme=merko&amp;repo=Machine-Learning-Credit-Scoring&amp;description=Modelo+de+Machine+Learning+para+prever+o+risco+de+cr%C3%A9dito+de+clientes&amp;language=Jupyter+Notebook" alt="Machine-Learning-Credit-Scoring" /></a>
+<a href="https://github.com/Davibzf/Netflix-data-analysis"><img width="49%" src="https://readmevanta.vercel.app/api/repo.svg?username=Davibzf&amp;theme=merko&amp;repo=Netflix-data-analysis&amp;description=An%C3%A1lise+explorat%C3%B3ria+de+8.807+t%C3%ADtulos+da+Netflix&amp;language=Jupyter+Notebook" alt="Netflix-data-analysis" /></a>
 
 </div>
 
 ## 🐍 Contribuições
 
-<!-- Requer o workflow .github/workflows/snake.yml (baixe no ReadmeVanta). -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davibzf/davibzf/output/github-contribution-grid-snake-dark.svg" />
