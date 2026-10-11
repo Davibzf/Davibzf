@@ -56,10 +56,10 @@ Sou estudante de Engenharia de Software e desenvolvedor com foco em Python. Gost
 
 <div align="center">
 
-<img width="49%" src="https://readmevanta.vercel.app/api/github-stats.svg?username=davibzf&amp;theme=merko" alt="davibzf GitHub stats" />
-<img width="49%" src="https://readmevanta.vercel.app/api/github-streak.svg?user=davibzf&amp;theme=merko" alt="davibzf contribution streak" />
+<img width="49%" src="https://readmevanta.vercel.app/api/github-stats.svg?v=2&amp;username=davibzf&amp;theme=merko" alt="davibzf GitHub stats" />
+<img width="49%" src="https://readmevanta.vercel.app/api/github-streak.svg?v=2&amp;user=davibzf&amp;theme=merko" alt="davibzf contribution streak" />
 <br />
-<img width="49%" src="https://readmevanta.vercel.app/api/top-langs.svg?username=davibzf&amp;theme=merko" alt="Top languages" />
+<img width="49%" src="https://readmevanta.vercel.app/api/top-langs.svg?v=2&amp;username=davibzf&amp;theme=merko" alt="Top languages" />
 
 </div>
 
@@ -67,10 +67,10 @@ Sou estudante de Engenharia de Software e desenvolvedor com foco em Python. Gost
 
 <div align="center">
 
-<a href="https://github.com/Davibzf/ReadmeVanta"><img width="49%" src="https://readmevanta.vercel.app/api/repo.svg?username=Davibzf&amp;theme=merko&amp;repo=ReadmeVanta&amp;description=Editor+visual+de+README+para+perfil+do+GitHub%2C+com+publica%C3%A7%C3%A3o+em+1+clique&amp;language=TypeScript" alt="ReadmeVanta" /></a>
-<a href="https://github.com/Davibzf/Sonarize"><img width="49%" src="https://readmevanta.vercel.app/api/repo.svg?username=Davibzf&amp;theme=merko&amp;repo=Sonarize&amp;description=Baixa+%C3%A1udios%2C+transcreve+automaticamente+e+gera+resumos+com+IA&amp;language=Python" alt="Sonarize" /></a>
-<a href="https://github.com/Davibzf/Machine-Learning-Credit-Scoring"><img width="49%" src="https://readmevanta.vercel.app/api/repo.svg?username=Davibzf&amp;theme=merko&amp;repo=Machine-Learning-Credit-Scoring&amp;description=Modelo+de+Machine+Learning+para+prever+o+risco+de+cr%C3%A9dito+de+clientes&amp;language=Jupyter+Notebook" alt="Machine-Learning-Credit-Scoring" /></a>
-<a href="https://github.com/Davibzf/Netflix-data-analysis"><img width="49%" src="https://readmevanta.vercel.app/api/repo.svg?username=Davibzf&amp;theme=merko&amp;repo=Netflix-data-analysis&amp;description=An%C3%A1lise+explorat%C3%B3ria+de+8.807+t%C3%ADtulos+da+Netflix&amp;language=Jupyter+Notebook" alt="Netflix-data-analysis" /></a>
+<a href="https://github.com/Davibzf/ReadmeVanta"><img width="49%" src="https://readmevanta.vercel.app/api/repo.svg?v=2&amp;username=Davibzf&amp;theme=merko&amp;repo=ReadmeVanta&amp;description=Editor+visual+de+README+para+perfil+do+GitHub%2C+com+publica%C3%A7%C3%A3o+em+1+clique&amp;language=TypeScript" alt="ReadmeVanta" /></a>
+<a href="https://github.com/Davibzf/Sonarize"><img width="49%" src="https://readmevanta.vercel.app/api/repo.svg?v=2&amp;username=Davibzf&amp;theme=merko&amp;repo=Sonarize&amp;description=Baixa+%C3%A1udios%2C+transcreve+automaticamente+e+gera+resumos+com+IA&amp;language=Python" alt="Sonarize" /></a>
+<a href="https://github.com/Davibzf/Machine-Learning-Credit-Scoring"><img width="49%" src="https://readmevanta.vercel.app/api/repo.svg?v=2&amp;username=Davibzf&amp;theme=merko&amp;repo=Machine-Learning-Credit-Scoring&amp;description=Modelo+de+Machine+Learning+para+prever+o+risco+de+cr%C3%A9dito+de+clientes&amp;language=Jupyter+Notebook" alt="Machine-Learning-Credit-Scoring" /></a>
+<a href="https://github.com/Davibzf/Netflix-data-analysis"><img width="49%" src="https://readmevanta.vercel.app/api/repo.svg?v=2&amp;username=Davibzf&amp;theme=merko&amp;repo=Netflix-data-analysis&amp;description=An%C3%A1lise+explorat%C3%B3ria+de+8.807+t%C3%ADtulos+da+Netflix&amp;language=Jupyter+Notebook" alt="Netflix-data-analysis" /></a>
 
 </div>
 
@@ -88,7 +88,7 @@ Sou estudante de Engenharia de Software e desenvolvedor com foco em Python. Gost
 
 <div align="center">
 
-<img src="https://readmevanta.vercel.app/api/trophies.svg?username=davibzf&amp;theme=merko" alt="GitHub trophies" />
+<img src="https://readmevanta.vercel.app/api/trophies.svg?v=2&amp;username=davibzf&amp;theme=merko" alt="GitHub trophies" />
 
 </div>
 
